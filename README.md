@@ -1,2 +1,2 @@
 # EDA-ML-Workflow
-A collection of projects combining exploratory data analysis (EDA) with machine learning models such as classification, clustering, and boosting. Includes data preprocessing, visualizations, and model evaluation using Python and R libraries.
+A collection of data projects ranging from pure exploratory data analysis (EDA) to EDA combined with machine learning models. The notebooks include data preprocessing, visualization, and model evaluation using Python and R libraries.
